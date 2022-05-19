@@ -72,4 +72,5 @@ Aqui está o relatório em PDF !
 Indico que baixe o outro arquivo anexado (.pbix), pois em PDF o Power BI só exporta com o Background branco.
 
 [BaseRH.pdf](https://github.com/Isaque-Chaves/Dashboard-RH/files/8730353/BaseRH.pdf)
+Arquivo em Power BI: https://github.com/Isaque-Chaves/Dashboard-RH/blob/main/BaseRH.pbix
 
