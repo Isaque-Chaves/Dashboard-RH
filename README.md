@@ -73,5 +73,5 @@ Indico que baixe o outro arquivo anexado (.pbix), pois em PDF o Power BI só exp
 
 Arquivo em PDF: [BaseRH.pdf](https://github.com/Isaque-Chaves/Dashboard-RH/files/8730353/BaseRH.pdf)
 
-Arquivo em Power BI: https://github.com/Isaque-Chaves/Dashboard-RH/blob/main/BaseRH.pbix
+Arquivo em Power BI: [https://github.com/Isaque-Chaves/Dashboard-RH/blob/main/BaseRH.pbix](https://github.com/Isaque-Chaves/Dashboard-RH/raw/main/BaseRH.pbix)
 
